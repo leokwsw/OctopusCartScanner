@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">Octopus Cart Scanner</string>
+  <string name="placeholder_text">-</string>
+  <string name="hkd">HKD</string>
+  <string name="hints">Please place your Octopus Card \n against the back of the phone.</string>
+</resources>
